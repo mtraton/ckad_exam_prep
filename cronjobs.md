@@ -5,5 +5,5 @@
 k create cj get-date-every-minute \
 --image=busybox \
 --schedule='*/1 * * * *' \
--- 'date; echo Hello from the Kubernetes cluster'
+-- /bin/sh -c 'date; echo Hello from the Kubernetes cluster'
 ```
