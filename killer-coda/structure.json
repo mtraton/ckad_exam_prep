@@ -2,9 +2,8 @@
     "title": "CKAD",
     "description": "CKAD desc",
     "items": [
-
       {
-        "path": "./configmap",
+        "path": "configmap",
         "title": "ConfigMap scenarios",
         "description": "ConfigMap desc"
       }
