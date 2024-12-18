@@ -1,0 +1,7 @@
+{
+    "title": "From values",
+    "description": "Bla bla",
+    "backend": {
+      "imageid": "kubernetes-kubeadm-1node"
+    }
+  }
