@@ -35,4 +35,4 @@ k delete cm config
     k delete cm from-file
   ```
 
-3. 
+3. Create and display a configmap from a .env file
