@@ -10,10 +10,7 @@
         "title": "Create config map from values",
         "text": "step1/text.md"
       }
-    ],
-    "finish": {
-      "text": "finish.md"
-    }
+    ]
   },
   "backend": {
     "imageid": "kubernetes-kubeadm-1node"
