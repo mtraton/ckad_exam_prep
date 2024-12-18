@@ -1,7 +1,21 @@
 {
-    "title": "From values",
-    "description": "Bla bla",
-    "backend": {
-      "imageid": "kubernetes-kubeadm-1node"
+  "title": "Config map from values",
+  "description": "Use a simple one node Kubernetes cluster and let user list all pods",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Create config map from values",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
     }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
   }
+}

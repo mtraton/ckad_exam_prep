@@ -1,1 +1,1 @@
-Foo
+Config Map for values
