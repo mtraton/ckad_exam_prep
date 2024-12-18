@@ -1,0 +1,13 @@
+{
+    "title": "CKAD",
+    "description": "CKAD desc",
+    "items": [
+
+      {
+        "path": "./configmap",
+        "title": "ConfigMap scenarios",
+        "description": "ConfigMap desc"
+      }
+    
+    ]
+  }
